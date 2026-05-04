@@ -11,4 +11,4 @@
 
 
 **Sample Data:**
-- `sample-data.xlsx`: Includes 100 sample rows, illustrating the data format and structure used in the study.
+- `sample-data.csv`: Includes 100 sample rows, illustrating the data format and structure used in the study.
